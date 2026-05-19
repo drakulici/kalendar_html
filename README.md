@@ -13,3 +13,6 @@ start index.html   # Windows
 - Organizing content with headings and structure
 ## Built With
 - Plain HTML (no frameworks or libraries)
+
+# CSS continuation of the basics
+- Here i have continued with the basics 
